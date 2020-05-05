@@ -1,0 +1,8 @@
+git init- create a new gir repo
+git status to view changes 
+git add filename
+gir add .  to add all file 
+git commit -m "Initial commit"  to save a file
+git log   to see all change logs just like status
+
+SSH-secure shell
